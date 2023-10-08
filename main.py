@@ -22,7 +22,6 @@ app.add_middleware(
 
 @app.get("/")
 async def root():
-    # json_data = json.load(open("teas.json", "r", encoding="utf-8"))
     with open("teas.json", "r", encoding="utf-8") as teas_file:
         json_data = json.load(teas_file)
         return {"teas": json_data}
