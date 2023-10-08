@@ -1,0 +1,1796 @@
+[
+	{
+		"ID": "b34a694e-d9c3-4127-9a8f-43fc3ebc877e",
+		"Name": "Chá de Agoniada",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Justicia_pectoralis.jpg/1200px-Justicia_pectoralis.jpg",
+		"Description": "O chá de agoniada é uma bebida rica em iridoides, alcaloides e compostos fenólicos, que podem ter propriedades anti-inflamatórias, antiespasmódicas, analgésicas e reguladoras do ciclo menstrual.",
+		"Benefits": [
+			"É anti-inflamatório",
+			"É antiespasmódico",
+			"É analgésico",
+			"Regula o ciclo menstrual",
+			"Ajuda a tratar a dismenorreia"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "a3689c38-ce70-4986-8348-7e93b54f5723",
+		"Name": "Chá de Alcachofra",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cynara_scolymus_L._-_Flora_de_Portugal_2000.jpg/1200px-Cynara_scolymus_L._-_Flora_de_Portugal_2000.jpg",
+		"Description": "O chá de alcachofra é uma bebida rica em cinarina, um composto que pode ter propriedades digestivas, hepatoprotetoras e anti-inflamatórias.",
+		"Benefits": [
+			"É digestivo",
+			"É hepatoprotetor",
+			"É anti-inflamatório",
+			"Ajuda a reduzir o colesterol",
+			"Ajuda a controlar o diabetes"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "56792a12-0a06-4f95-bf5e-d54c5def1091",
+		"Name": "Chá de Alecrim",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rosmarinus_officinalis_closeup.jpg/1200px-Rosmarinus_officinalis_closeup.jpg",
+		"Description": "O chá de alecrim é uma bebida rica em compostos fenólicos, que podem ter propriedades antioxidantes, anti-inflamatórias e tônicas.",
+		"Benefits": [
+			"É antioxidante",
+			"É anti-inflamatório",
+			"É tônico",
+			"Ajuda a melhorar a memória e a concentração",
+			"Ajuda a reduzir o estresse"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "e75641b8-90ea-437c-9c0e-32bde5ef91d1",
+		"Name": "Chá de Alfavaca",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ocimum_basilicum_L._-_Flora_de_Portugal_2000.jpg/1200px-Ocimum_basilicum_L._-_Flora_de_Portugal_2000.jpg",
+		"Description": "O chá de alfavaca é uma bebida rica em compostos fenólicos, que podem ter propriedades anti-inflamatórias, antiespasmódicas, digestivas e carminativas.",
+		"Benefits": [
+			"É anti-inflamatório",
+			"É antiespasmódico",
+			"É digestivo",
+			"É carminativo",
+			"Ajuda a reduzir a febre",
+			"Ajuda a tratar a dor de garganta",
+			"Ajuda a melhorar a digestão",
+			"Ajuda a aliviar a prisão de ventre"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "ed1e214e-b2da-4dba-88ae-4f85343b0e57",
+		"Name": "Chá de Alfazema",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Lavandula_angustifolia_flower.jpg/1200px-Lavandula_angustifolia_flower.jpg",
+		"Description": "O chá de alfazema é uma bebida rica em flavonoides, que podem ter propriedades calmantes, relaxantes e anti-inflamatórias.",
+		"Benefits": [
+			"É calmante",
+			"É relaxante",
+			"É anti-inflamatório",
+			"Ajuda a tratar a insônia",
+			"Ajuda a aliviar o estresse"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por pessoas com alergias a plantas da família Lamiaceae",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "c1825237-1f17-4121-bf85-12c47d10d865",
+		"Name": "Chá de Amora",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Rubus_fruticosus_L._-_Flora_de_Portugal_2000.jpg/1200px-Rubus_fruticosus_L._-_Flora_de_Portugal_2000.jpg",
+		"Description": "O chá de amora é uma bebida rica em vitamina C, antioxidantes e compostos fenólicos, que podem ter propriedades anti-inflamatórias, antioxidantes e reguladoras do ciclo menstrual.",
+		"Benefits": [
+			"É antioxidante",
+			"É anti-inflamatório",
+			"Regula o ciclo menstrual",
+			"Ajuda a tratar a dismenorreia",
+			"Ajuda a prevenir o câncer"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "9954b796-dbeb-4162-b16d-7c65a27d0d46",
+		"Name": "Chá de Anis Estrelado",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Illicium_verum_fruits.jpg/1200px-Illicium_verum_fruits.jpg",
+		"Description": "O chá de anis estrelado é uma bebida rica em flavonoides, que podem ter propriedades digestivas, carminativas, antiespasmódicas e expectorantes.",
+		"Benefits": [
+			"É digestivo",
+			"É carminativo",
+			"É antiespasmódico",
+			"É expectorante",
+			"Ajuda a tratar a má digestão",
+			"Ajuda a aliviar a dor de estômago",
+			"Ajuda a tratar a cólica",
+			"Ajuda a aliviar a tosse"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "8f2b29a2-7c01-4017-8a79-c934c0d1c110",
+		"Name": "Chá de Aroeira",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Aroeira_vermelha_folha.jpg/1200px-Aroeira_vermelha_folha.jpg",
+		"Description": "O chá de aroeira é uma bebida rica em taninos, que podem ter propriedades adstringentes, anti-inflamatórias e antibacterianas.",
+		"Benefits": [
+			"É adstringente",
+			"É anti-inflamatório",
+			"É antibacteriano",
+			"Ajuda a tratar a diarreia",
+			"Ajuda a tratar a dor de garganta",
+			"Ajuda a tratar a infecção urinária",
+			"Ajuda a tratar a gengivite"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por crianças, mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "e47ca9c7-8abb-4a51-a7f4-4cabeda5b3b3",
+		"Name": "Chá de Arruda",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ruta_graveolens_flower.jpg/1200px-Ruta_graveolens_flower.jpg",
+		"Description": "O chá de arruda é uma bebida rica em óleos essenciais, que podem ter propriedades anti-inflamatórias, antimicrobianas e repelentes.",
+		"Benefits": [
+			"É anti-inflamatório",
+			"É antimicrobiano",
+			"É repelente",
+			"Ajuda a tratar a dor de cabeça",
+			"Ajuda a tratar a dor de estômago",
+			"Ajuda a tratar a infecção urinária",
+			"Ajuda a repelir insetos"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "0b73fa81-77ef-43e7-97f3-de44418cde59",
+		"Name": "Chá de Artemísia",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Artemisia_absinthium_2.jpg/1200px-Artemisia_absinthium_2.jpg",
+		"Description": "O chá de artemísia é uma bebida rica em flavonoides e compostos fenólicos, que podem ter propriedades anti-inflamatórias, antioxidantes e antiparasitárias.",
+		"Benefits": [
+			"É anti-inflamatório",
+			"É antioxidante",
+			"É antiparasitário",
+			"Ajuda a tratar a dor de estômago",
+			"Ajuda a tratar a febre",
+			"Ajuda a tratar a má digestão",
+			"Ajuda a tratar a diarreia"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "50fe04bd-251f-4b37-8498-a778416e4e85",
+		"Name": "Chá de Assa-Peixe",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Vernonia_polysphaera_flower.jpg/1200px-Vernonia_polysphaera_flower.jpg",
+		"Description": "O chá de assa-peixe é uma bebida rica em sais minerais, que podem ter propriedades diuréticas, anti-inflamatórias e expectorantes.",
+		"Benefits": [
+			"É diurético",
+			"É anti-inflamatório",
+			"É expectorante",
+			"Ajuda a tratar a infecção urinária",
+			"Ajuda a tratar a dor de garganta",
+			"Ajuda a tratar a tosse"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "a28fc96f-434a-43b6-874f-78190c64bdfe",
+		"Name": "Chá de Barbatimão",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Barbatimao.jpg/1200px-Barbatimao.jpg",
+		"Description": "O chá de barbatimão é uma bebida rica em taninos, que podem ter propriedades adstringentes, anti-inflamatórias e cicatrizantes.",
+		"Benefits": [
+			"É adstringente",
+			"É anti-inflamatório",
+			"É cicatrizante",
+			"Ajuda a tratar a diarreia",
+			"Ajuda a tratar a dor de garganta",
+			"Ajuda a tratar a gengivite"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "1f618959-b800-4c27-b62b-eca0da397f84",
+		"Name": "Chá de Bardana",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Arctium_lappa_2.jpg/1200px-Arctium_lappa_2.jpg",
+		"Description": "O chá de bardana é uma bebida rica em vitaminas, minerais e compostos bioativos, que podem ter propriedades depurativas, diuréticas, anti-inflamatórias e antibacterianas.",
+		"Benefits": [
+			"É depurativo",
+			"É diurético",
+			"É anti-inflamatório",
+			"É antibacteriano",
+			"Ajuda a tratar a acne",
+			"Ajuda a tratar a caspa",
+			"Ajuda a tratar a infecção urinária"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "8f194b52-093d-4e28-ada2-a0798c5d9c22",
+		"Name": "Chá de Boldo",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Boldo_folhas.jpg/1200px-Boldo_folhas.jpg",
+		"Description": "O chá de boldo é uma bebida rica em antioxidantes, que podem ter propriedades digestivas, hepatoprotetoras e anti-inflamatórias.",
+		"Benefits": [
+			"É digestivo",
+			"É hepatoprotetor",
+			"É anti-inflamatório",
+			"Ajuda a tratar a má digestão",
+			"Ajuda a tratar a dor de estômago",
+			"Ajuda a tratar a gastrite"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "0f8f96ed-1223-46be-828b-8e8542801194",
+		"Name": "Chá Branco",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Camellia_sinensis_var._sinensis_-_white_tea.jpg/1200px-Camellia_sinensis_var._sinensis_-_white_tea.jpg",
+		"Description": "O chá branco é feito de folhas de chá colhidas antes da floração e não fermentadas. É rico em antioxidantes e polifenóis, que podem ter propriedades anti-inflamatórias, anticarcinogênicas e cardioprotetoras.",
+		"Benefits": [
+			"É antioxidante",
+			"É anticarcinogênico",
+			"É cardioprotetor",
+			"Ajuda a reduzir o colesterol",
+			"Ajuda a proteger o cérebro",
+			"Ajuda a perder peso"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "b20e5f2f-a797-4793-ac8f-58e2a2868d76",
+		"Name": "Chá de Calêndula",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Calendula_officinalis_2.jpg/1200px-Calendula_officinalis_2.jpg",
+		"Description": "O chá de calêndula é uma bebida rica em flavonoides, que podem ter propriedades anti-inflamatórias, antibacterianas e cicatrizantes.",
+		"Benefits": [
+			"É anti-inflamatório",
+			"É antibacteriano",
+			"É cicatrizante",
+			"Ajuda a tratar a inflamação da pele",
+			"Ajuda a tratar a dor de garganta",
+			"Ajuda a tratar a acne"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "9280b76a-bee9-4e12-98cd-0c5fcbe786eb",
+		"Name": "Chá de Camomila",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Matricaria_chamomilla_flower_close-up.jpg/1200px-Matricaria_chamomilla_flower_close-up.jpg",
+		"Description": "O chá de camomila é uma bebida rica em flavonoides, que podem ter propriedades calmantes, anti-inflamatórias e antiespasmódicas.",
+		"Benefits": [
+			"É calmante",
+			"É anti-inflamatório",
+			"É antiespasmódico",
+			"Ajuda a tratar a insônia",
+			"Ajuda a tratar a dor de estômago",
+			"Ajuda a tratar a ansiedade"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "f8fda049-2a7d-453e-acf4-8eab15796a7c",
+		"Name": "Chá de Cana do Brejo",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Costus_spicatus.jpg/1200px-Costus_spicatus.jpg",
+		"Description": "O chá de cana do brejo é uma bebida rica em potássio, que pode ter propriedades diuréticas e anti-inflamatórias.",
+		"Benefits": [
+			"É diurético",
+			"É anti-inflamatório",
+			"Ajuda a tratar a retenção de líquidos",
+			"Ajuda a tratar a infecção urinária",
+			"Ajuda a tratar a dor de garganta"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "5167b733-84b4-428a-93ba-1e7be946bde9",
+		"Name": "Chá de Canela",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cinnamomum_zeylanicum_bark.jpg/1200px-Cinnamomum_zeylanicum_bark.jpg",
+		"Description": "O chá de canela é uma bebida rica em antioxidantes, que podem ter propriedades anti-inflamatórias, antimicrobianas e antidiabéticas.",
+		"Benefits": [
+			"É anti-inflamatório",
+			"É antimicrobiano",
+			"É antidiabético",
+			"Ajuda a tratar a indigestão",
+			"Ajuda a tratar a febre",
+			"Ajuda a tratar a dor"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "bef5b321-ee76-486b-9816-75ed7b8da5f8",
+		"Name": "Chá de Capim-santo e Erva-cidreira",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Cymbopogon_citratus_-_flower_head.jpg/1200px-Cymbopogon_citratus_-_flower_head.jpg",
+		"Description": "O chá de capim-santo e erva-cidreira é uma bebida rica em antioxidantes e compostos fenólicos, que podem ter propriedades calmantes, anti-inflamatórias e digestivas.",
+		"Benefits": [
+			"É calmante",
+			"É anti-inflamatório",
+			"É digestivo",
+			"Ajuda a tratar a insônia",
+			"Ajuda a tratar a dor de cabeça",
+			"Ajuda a tratar a má digestão"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "881f3f64-af12-40a8-a3e1-b736251b99fc",
+		"Name": "Chá de Cardo Mariano Semente",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Silybum_marianum_seed.jpg/1200px-Silybum_marianum_seed.jpg",
+		"Description": "O chá de cardo mariano é uma bebida rica em silimarina, um composto que pode ter propriedades hepatoprotetoras, antioxidantes e anti-inflamatórias.",
+		"Benefits": [
+			"É hepatoprotetor",
+			"É antioxidante",
+			"É anti-inflamatório",
+			"Ajuda a tratar a hepatite",
+			"Ajuda a proteger o fígado dos danos causados por toxinas",
+			"Ajuda a melhorar a função hepática"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "f3aae8fb-cb06-4871-b75d-ab7c7e3d04df",
+		"Name": "Chá de Carqueja Amarga",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Carqueja_(Baccharis_genistelloides).jpg/1200px-Carqueja_(Baccharis_genistelloides).jpg",
+		"Description": "O chá de carqueja amarga é uma bebida rica em compostos fenólicos, que podem ter propriedades digestivas, diuréticas e anti-inflamatórias.",
+		"Benefits": [
+			"É digestivo",
+			"É diurético",
+			"É anti-inflamatório",
+			"Ajuda a tratar a má digestão",
+			"Ajuda a eliminar as toxinas do corpo",
+			"Ajuda a aliviar a dor e inflamação"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Pode interagir com alguns medicamentos"
+		]
+	},
+	{
+		"ID": "776c218a-0c13-492d-8f31-452ca9ecec4f",
+		"Name": "Chá de Cascara Sagrada",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Rhamnus_purshiana_bark.jpg/1200px-Rhamnus_purshiana_bark.jpg",
+		"Description": "O chá de cascara sagrada é uma bebida rica em compostos laxantes, que podem ajudar a estimular os movimentos intestinais e promover a evacuação.",
+		"Benefits": [
+			"É laxante",
+			"Ajuda a tratar a prisão de ventre",
+			"Ajuda a eliminar toxinas do corpo"
+		],
+		"Contraindication": [
+			"Não deve ser consumido por mulheres grávidas ou amamentando",
+			"Não deve ser consumido por crianças menores de 12 anos",
+			"Pode causar efeitos colaterais como náusea, vômito e diarreia"
+		]
+	},
+	{
+		"ID": "301b8f77-67e0-4cc3-87b8-e15396be2768",
+		"Name": "Chá de Catuaba",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Catuaba_tree.jpg/220px-Catuaba_tree.jpg",
+		"Description": "O Chá de Catuaba é uma bebida preparada a partir da casca da árvore catuaba, uma planta medicinal nativa da América do Sul. É conhecido por seus efeitos afrodisíacos, estimulantes e anti-inflamatórios.",
+		"Benefits": [
+			"Afrodisíaco",
+			"Estimulante energético",
+			"Anti-inflamatório",
+			"Antioxidante",
+			"Antimicrobiano"
+		],
+		"Contraindications": [
+			"Glaucoma",
+			"Pré-excitação ventricular",
+			"Gravidez",
+			"Lactação",
+			"Crianças menores de 12 anos",
+			"Hipertensos",
+			"Problemas cardíacos"
+		]
+	},
+	{
+		"ID": "89bd3f60-aed6-40c8-a6ac-9e4810d02fe2",
+		"Name": "Chá de Cavalinha",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Equisetum_arvense_02.jpg/220px-Equisetum_arvense_02.jpg",
+		"Description": "O Chá de Cavalinha é uma bebida preparada a partir dos talos da planta cavalinha, uma herbácea nativa das regiões temperadas do hemisfério norte. É conhecido por seus efeitos diuréticos, remineralizantes e anti-inflamatórios.",
+		"Benefits": [
+			"Diurético",
+			"Remineralizante",
+			"Anti-inflamatório",
+			"Adstringente",
+			"Antioxidante"
+		],
+		"Contraindications": [
+			"Gestação",
+			"Lactação",
+			"Insuficiência renal",
+			"Gastrite",
+			"Úlcera gástrica",
+			"Hiperpotassemia"
+		]
+	},
+	{
+		"ID": "4541990c-6721-4a15-ad03-13f469ffd381",
+		"Name": "Chá de Centella Asiática",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Centella_asiatica_leaves.jpg/220px-Centella_asiatica_leaves.jpg",
+		"Description": "O Chá de Centella Asiática é uma bebida preparada a partir das folhas da planta centella asiática, uma erva medicinal nativa da Ásia. É conhecido por seus efeitos cicatrizantes, anti-inflamatórios e antioxidantes.",
+		"Benefits": [
+			"Cicatrizante",
+			"Anti-inflamatório",
+			"Antioxidante",
+			"Fortalecedor das veias",
+			"Redutor de celulite"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas de coagulação",
+			"Pessoas com sensibilidade à cafeína"
+		]
+	},
+	{
+		"ID": "576a4387-6d28-479d-b99a-35d6c11b231d",
+		"Name": "Chá de Chapéu de Couro",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Echinodorus_grandiflorus_02.jpg/220px-Echinodorus_grandiflorus_02.jpg",
+		"Description": "O Chá de Chapéu de Couro é uma bebida preparada a partir das folhas da planta chapéu de couro, uma erva medicinal nativa da América do Sul. É conhecido por seus efeitos anti-inflamatórios, antirreumáticos, diuréticos e laxantes.",
+		"Benefits": [
+			"Anti-inflamatório",
+			"Antirreumático",
+			"Diurético",
+			"Laxante",
+			"Proteção do coração",
+			"Fortalecimento da imunidade",
+			"Tratamento de condições de pele"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Hipertensão",
+			"Problemas renais",
+			"Insuficiência hepática",
+			"Doenças cardíacas"
+		]
+	},
+	{
+		"ID": "c4ea2f31-6d1b-4f8d-9f7f-0214ebc025e1",
+		"Name": "Chá de Cipó Mil Homens",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Aristolochia_brasiliensis_02.jpg/220px-Aristolochia_brasiliensis_02.jpg",
+		"Description": "O Chá de Cipó Mil Homens é uma bebida preparada a partir da casca da planta cipó mil homens, uma erva medicinal nativa da América do Sul. É conhecido por seus efeitos anti-inflamatórios, diuréticos, antiespasmódicos e antimicrobianos.",
+		"Benefits": [
+			"Anti-inflamatório",
+			"Diurético",
+			"Antiespasmódico",
+			"Antimicrobiano",
+			"Antioxidante",
+			"Anticancerígeno"
+		],
+		"Contraindications": [
+			"Gestação",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Doenças cardíacas",
+			"Falta de apetite",
+			"Problemas de digestão",
+			"Sensibilidade à cafeína"
+		]
+	},
+	{
+		"ID": "8e736fd3-d58d-4256-a9c6-3a29a184f47c",
+		"Name": "Chá de Dente de Leão",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Taraxacum_officinale_flower.jpg/220px-Taraxacum_officinale_flower.jpg",
+		"Description": "O Chá de Dente de Leão é uma bebida preparada a partir das raízes e folhas da planta dente-de-leão, uma erva medicinal nativa da Europa, Ásia e América do Norte. É conhecido por seus efeitos diuréticos, laxantes, depurativos e antioxidantes.",
+		"Benefits": [
+			"Diurético",
+			"Laxante",
+			"Depurativo",
+			"Antioxidante",
+			"Estimulante do apetite",
+			"Proteção do fígado",
+			"Melhora da digestão",
+			"Redução do colesterol"
+		],
+		"Contraindications": [
+			"Gestação",
+			"Lactação",
+			"Hipertensão",
+			"Problemas renais",
+			"Cálculos biliares",
+			"Sensibilidade à cafeína"
+		]
+	},
+	{
+		"ID": "4c3de97d-f6f1-49e9-9110-39030107a0fb",
+		"Name": "Chá de Equinácea Flor",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Echinacea_purpurea_flower.jpg/220px-Echinacea_purpurea_flower.jpg",
+		"Description": "O Chá de Equinácea Flor é uma bebida preparada a partir das flores da planta equinácea, uma erva medicinal nativa da América do Norte. É conhecido por seus efeitos anti-inflamatórios, imunomoduladores e antioxidantes.",
+		"Benefits": [
+			"Anti-inflamatório",
+			"Imunomodulador",
+			"Antioxidante",
+			"Proteção do sistema imunológico",
+			"Redução do risco de infecções",
+			"Redução do risco de doenças crônicas",
+			"Melhora da cicatrização de feridas"
+		],
+		"Contraindications": [
+			"Alergias",
+			"Problemas de saúde autoimunes",
+			"Gravidez",
+			"Lactação"
+		]
+	},
+	{
+		"ID": "c6834173-1971-484e-a8ab-bd3b73669fc1",
+		"Name": "Chá de Erva Baleeira",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cordia_verbenacea_-_2_-_edit.jpg/220px-Cordia_verbenacea_-_2_-_edit.jpg",
+		"Description": "O Chá de Erva Baleeira é uma bebida preparada a partir das folhas da planta erva baleeira, uma erva medicinal nativa da América do Sul. É conhecido por seus efeitos anti-inflamatórios, analgésicos e anti-reumáticos.",
+		"Benefits": [
+			"Anti-inflamatório",
+			"Analgésico",
+			"Anti-reumático",
+			"Proteção do fígado",
+			"Melhora da circulação sanguínea",
+			"Efeito cicatrizante"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas hepáticos",
+			"Úlcera gástrica",
+			"Gastrite",
+			"Hipertensão"
+		]
+	},
+	{
+		"ID": "5ccd5579-5f2b-4a96-a83a-104f84d18e50",
+		"Name": "Chá de Erva Botão",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Eclipta_prostrata_02.jpg/220px-Eclipta_prostrata_02.jpg",
+		"Description": "O Chá de Erva Botão é uma bebida preparada a partir das folhas da planta erva botão, uma erva medicinal nativa da América do Sul. É conhecido por seus efeitos relaxantes, digestivos e antioxidantes.",
+		"Benefits": [
+			"Relaxante",
+			"Digestivo",
+			"Antioxidante",
+			"Proteção do fígado",
+			"Redução do colesterol",
+			"Fortalecimento do sistema imunológico"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas hepáticos",
+			"Problemas renais",
+			"Hipertensão",
+			"Problemas de coagulação"
+		]
+	},
+	{
+		"ID": "54291930-c145-453f-bb8f-4581d99bedcc",
+		"Name": "Chá de Erva Cidreira",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Melissa_officinalis_02.jpg/220px-Melissa_officinalis_02.jpg",
+		"Description": "O Chá de Erva Cidreira é uma bebida preparada a partir das folhas da planta erva cidreira, uma erva medicinal nativa da Europa. É conhecido por seus efeitos calmantes, digestivos e anti-inflamatórios.",
+		"Benefits": [
+			"Calmante",
+			"Digestivo",
+			"Anti-inflamatório",
+			"Antioxidante",
+			"Redução do estresse",
+			"Melhora do sono",
+			"Redução da ansiedade",
+			"Melhora da digestão",
+			"Alívio de dores de cabeça"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "fbb6b7d1-771e-4a67-873d-86b400328628",
+		"Name": "Chá de Erva de Bicho",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Stachys_palustris_-_01.jpg/220px-Stachys_palustris_-_01.jpg",
+		"Description": "O Chá de Erva de Bicho é uma bebida preparada a partir das folhas da planta erva de bicho, uma erva medicinal nativa da Europa. É conhecido por seus efeitos anti-inflamatórios, cicatrizantes e antibacterianos.",
+		"Benefits": [
+			"Anti-inflamatório",
+			"Cicatrizante",
+			"Antibacteriano",
+			"Alívio de dores",
+			"Melhora da digestão",
+			"Redução da febre",
+			"Fortalecimento do sistema imunológico"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "dd22f5ca-5b8d-42a9-87ef-5758ca5da672",
+		"Name": "Chá de Erva de São João",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hypericum_perforatum_01.jpg/220px-Hypericum_perforatum_01.jpg",
+		"Description": "O Chá de Erva de São João é uma bebida preparada a partir das flores da planta erva de São João, uma erva medicinal nativa da Europa e da Ásia. É conhecido por seus efeitos antidepressivos, anti-inflamatórios e antioxidantes.",
+		"Benefits": [
+			"Antidepressivo",
+			"Anti-inflamatório",
+			"Antioxidante",
+			"Alívio da ansiedade",
+			"Melhora da qualidade do sono",
+			"Redução da dor",
+			"Melhora da cicatrização de feridas"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas de coagulação",
+			"Interações medicamentosas",
+			"Sensibilidade à luz solar"
+		]
+	},
+	{
+		"ID": "f5e58d35-4b68-43b8-9144-c2a30a460062",
+		"Name": "Chá de Erva Doce",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Foeniculum_vulgare_01.jpg/220px-Foeniculum_vulgare_01.jpg",
+		"Description": "O Chá de Erva Doce é uma bebida preparada a partir das sementes da planta erva doce, uma erva medicinal nativa da Europa, Ásia e África. É conhecido por seus efeitos digestivos, calmantes e anti-inflamatórios.",
+		"Benefits": [
+			"Digestivo",
+			"Calmante",
+			"Anti-inflamatório",
+			"Antioxidante",
+			"Alívio de gases",
+			"Melhora da digestão",
+			"Redução da ansiedade",
+			"Melhora do sono"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas hepáticos",
+			"Problemas renais",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "126ef1f4-bf46-4f7e-b5b5-196ca4ca8c5a",
+		"Name": "Chá de Erva-mate",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ilex_paraguariensis_02.jpg/220px-Ilex_paraguariensis_02.jpg",
+		"Description": "O Chá de Erva-mate é uma bebida preparada a partir das folhas da planta erva-mate, uma árvore nativa da América do Sul. É conhecido por seus efeitos estimulantes, diuréticos e antioxidantes.",
+		"Benefits": [
+			"Estimulante",
+			"Diurético",
+			"Antioxidante",
+			"Melhora do foco e da concentração",
+			"Redução da fadiga",
+			"Aumento do metabolismo",
+			"Proteção contra doenças crônicas"
+		],
+		"Contraindications": [
+			"Problemas de pressão arterial",
+			"Problemas cardíacos",
+			"Problemas renais",
+			"Problemas de sono",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "c97c0db6-775a-4654-8136-4aff225a4871",
+		"Name": "Chá de Espinheira-santa",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Maytenus_ilicifolia_02.jpg/220px-Maytenus_ilicifolia_02.jpg",
+		"Description": "O Chá de Espinheira-santa é uma bebida preparada a partir das folhas da planta espinheira-santa, uma árvore nativa do Brasil. É conhecido por seus efeitos anti-inflamatórios, cicatrizantes e protetores gástricos.",
+		"Benefits": [
+			"Anti-inflamatório",
+			"Cicatrizante",
+			"Protetor gástrico",
+			"Alívio da dor",
+			"Melhora da digestão",
+			"Redução da acidez estomacal",
+			"Proteção contra úlceras"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas hepáticos",
+			"Problemas renais",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "bd37276e-b293-48b8-a2ce-154bb30c4e67",
+		"Name": "Chá de Eucalipto",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Eucalipto_-_Eucalyptus_globulus.jpg/220px-Eucalipto_-_Eucalyptus_globulus.jpg",
+		"Description": "O Chá de Eucalipto é uma bebida preparada a partir das folhas da planta eucalipto, uma árvore nativa da Austrália. É conhecido por seus efeitos expectorantes, anti-inflamatórios e antissépticos.",
+		"Benefits": [
+			"Expectorante",
+			"Anti-inflamatório",
+			"Antisséptico",
+			"Alívio da tosse",
+			"Alívio da congestão",
+			"Alívio da dor de garganta",
+			"Melhora da respiração",
+			"Proteção contra infecções"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas cardíacos",
+			"Problemas renais",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "9b625572-3699-43b5-8465-ac0bfbdf4f54",
+		"Name": "Chá de Flor de Hibisco",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hibiscus_sabdariffa_flower.jpg/220px-Hibiscus_sabdariffa_flower.jpg",
+		"Description": "O Chá de Flor de Hibisco é uma bebida preparada a partir das flores da planta hibisco, uma planta nativa da África. É conhecido por seus efeitos diuréticos, antioxidantes e anti-inflamatórios.",
+		"Benefits": [
+			"Diurético",
+			"Antioxidante",
+			"Anti-inflamatório",
+			"Alívio da pressão arterial",
+			"Alívio da dor",
+			"Melhora da digestão",
+			"Proteção contra doenças crônicas"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas de coagulação",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "0fc06112-c6d7-4236-a332-5873459a4022",
+		"Name": "Chá de Folha de Oliveira",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Folhas_de_oliveira.jpg/220px-Folhas_de_oliveira.jpg",
+		"Description": "O Chá de Folha de Oliveira é uma bebida preparada a partir das folhas da planta oliveira, uma árvore nativa da região do Mediterrâneo. É conhecido por seus efeitos antioxidantes, anti-inflamatórios e antimicrobianos.",
+		"Benefits": [
+			"Antioxidante",
+			"Anti-inflamatório",
+			"Antimicrobiano",
+			"Alívio da pressão arterial",
+			"Alívio da inflamação",
+			"Proteção contra doenças crônicas",
+			"Auxílio na digestão"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas de coagulação",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "574dabc0-492f-4d9d-b832-4d7d9558d647",
+		"Name": "Chá de Folha de Goiaba",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Folhas_de_goiaba.jpg/220px-Folhas_de_goiaba.jpg",
+		"Description": "O Chá de Folha de Goiaba é uma bebida preparada a partir das folhas da planta goiabeira, uma árvore nativa da América do Sul. É conhecido por seus efeitos anti-inflamatórios, cicatrizantes e digestivos.",
+		"Benefits": [
+			"Anti-inflamatório",
+			"Cicatrizante",
+			"Digestivo",
+			"Alívio da diarreia",
+			"Alívio da dor",
+			"Proteção contra infecções",
+			"Redução do colesterol"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas de coagulação",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "bca7ab64-95b0-4f73-bd7f-df9f9ad9c26d",
+		"Name": "Chá de Folha de Laranja",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Folhas_de_laranja.jpg/220px-Folhas_de_laranja.jpg",
+		"Description": "O Chá de Folha de Laranja é uma bebida preparada a partir das folhas da planta laranjeira, uma árvore cítrica nativa da Ásia. É conhecido por seus efeitos anti-inflamatórios, calmantes e digestivos.",
+		"Benefits": [
+			"Anti-inflamatório",
+			"Calma",
+			"Digestivo",
+			"Alívio da dor",
+			"Melhora do sono",
+			"Proteção contra infecções",
+			"Redução do estresse"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas de coagulação",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "0b1eeeab-1862-436c-90db-01eec689bacf",
+		"Name": "Chá de Funcho",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Foeniculum_vulgare_-_seeds.jpg/220px-Foeniculum_vulgare_-_seeds.jpg",
+		"Description": "O Chá de Funcho é uma bebida preparada a partir das sementes da planta funcho, uma erva nativa do Mediterrâneo. É conhecido por seus efeitos digestivos, calmantes e diuréticos.",
+		"Benefits": [
+			"Digestivo",
+			"Calma",
+			"Diurético",
+			"Alívio da dor",
+			"Melhora da digestão",
+			"Proteção contra infecções",
+			"Redução do estresse"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas de coagulação",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "c294c962-709c-4466-bcb3-f4569981d896",
+		"Name": "Chá de Gengibre",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Zingiber_officinale_root.jpg/220px-Zingiber_officinale_root.jpg",
+		"Description": "O Chá de Gengibre é uma bebida preparada a partir da raiz da planta gengibre, uma planta nativa da Ásia. É conhecido por seus efeitos digestivos, anti-inflamatórios e antioxidantes.",
+		"Benefits": [
+			"Digestivo",
+			"Anti-inflamatório",
+			"Antioxidante",
+			"Alívio da dor",
+			"Melhora da circulação",
+			"Proteção contra infecções",
+			"Redução do estresse"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas de coagulação",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "990236a9-f1a2-4fda-9047-25ac050e29f7",
+		"Name": "Chá de Ginkgo Biloba",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ginkgo_biloba_leaf.jpg/220px-Ginkgo_biloba_leaf.jpg",
+		"Description": "O Chá de Ginkgo Biloba é uma bebida preparada a partir das folhas da planta ginkgo biloba, uma árvore nativa da China. É conhecido por seus efeitos antioxidantes, anti-inflamatórios e vasodilatadores.",
+		"Benefits": [
+			"Antioxidante",
+			"Anti-inflamatório",
+			"Vasodilatador",
+			"Melhora da circulação",
+			"Proteção contra doenças cardiovasculares",
+			"Melhora da memória e concentração",
+			"Redução do estresse"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas de coagulação",
+			"Problemas de sangramento",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "562f1b4c-cf43-4987-bcf5-8f2101ad0af6",
+		"Name": "Chá de Graviola",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Annona_muricata_-_fruit.jpg/220px-Annona_muricata_-_fruit.jpg",
+		"Description": "O Chá de Graviola é uma bebida preparada a partir das folhas da planta graviola, uma fruta tropical nativa da América Central e do Sul. É conhecido por seus efeitos anti-inflamatórios, anticancerígenos e antioxidantes.",
+		"Benefits": [
+			"Anti-inflamatório",
+			"Anticancerígeno",
+			"Antioxidante",
+			"Alívio da dor",
+			"Melhora da imunidade",
+			"Proteção contra doenças crônicas",
+			"Redução do colesterol"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas de coagulação",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "579f0cc6-83d4-45f4-be26-443b01880c92",
+		"Name": "Chá de Guaco",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mikania_glomerata_spreng_01.jpg/220px-Mikania_glomerata_spreng_01.jpg",
+		"Description": "O Chá de Guaco é uma bebida preparada a partir das folhas da planta guaco, uma trepadeira nativa da América do Sul. É conhecido por seus efeitos expectorantes, broncodilatadores e anti-inflamatórios.",
+		"Benefits": [
+			"Expectorante",
+			"Broncodilatador",
+			"Anti-inflamatório",
+			"Alívio da tosse",
+			"Alívio da bronquite",
+			"Alívio da asma",
+			"Proteção contra infecções respiratórias"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas de coagulação",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "ec6bd238-2e60-482b-b280-9ed144486be0",
+		"Name": "Chá de Guaco Folha",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mikania_glomerata_spreng_01.jpg/220px-Mikania_glomerata_spreng_01.jpg",
+		"Description": "O Chá de Guaco Folha é uma bebida preparada a partir das folhas da planta guaco, uma trepadeira nativa da América do Sul. É conhecido por seus efeitos expectorantes, broncodilatadores e anti-inflamatórios.",
+		"Benefits": [
+			"Expectorante",
+			"Broncodilatador",
+			"Anti-inflamatório",
+			"Alívio da tosse",
+			"Alívio da bronquite",
+			"Alívio da asma",
+			"Proteção contra infecções respiratórias"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas de coagulação",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "2d036a2e-7550-47b5-89d1-48bfdeced9ff",
+		"Name": "Chá de Hipérico",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Hypericum_perforatum_flower.jpg/220px-Hypericum_perforatum_flower.jpg",
+		"Description": "O Chá de Hipérico é uma bebida preparada a partir das flores e folhas da planta hipérico, uma planta medicinal nativa da Europa e da Ásia. É conhecido por seus efeitos antidepressivos, anti-inflamatórios e antioxidantes.",
+		"Benefits": [
+			"Antidepressivo",
+			"Anti-inflamatório",
+			"Antioxidante",
+			"Alívio da dor",
+			"Melhora da qualidade do sono",
+			"Redução do estresse",
+			"Proteção contra doenças neurodegenerativas"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Uso de medicamentos antidepressivos",
+			"Exposição à luz solar",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "aa57f0c7-f589-42eb-96b7-3c6587759506",
+		"Name": "Chá de Hortelã",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Mentha_piperita_plant.jpg/220px-Mentha_piperita_plant.jpg",
+		"Description": "O Chá de Hortelã é uma bebida preparada a partir das folhas da planta hortelã, uma planta medicinal nativa da Europa e da Ásia. É conhecido por seus efeitos digestivos, anti-inflamatórios e antioxidantes.",
+		"Benefits": [
+			"Digestivo",
+			"Anti-inflamatório",
+			"Antioxidante",
+			"Alívio da dor de cabeça",
+			"Alívio da náusea",
+			"Alívio do enjoo",
+			"Melhora da concentração",
+			"Redução do estresse"
+		],
+		"Contraindications": ["Crianças menores de 5 anos", "Reação alérgica"]
+	},
+	{
+		"ID": "bf6485af-35e5-4dfb-9f6d-ffe9bd2e32d1",
+		"Name": "Chá de Ipê Roxo",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tabebuia_impetiginos_flower.jpg/220px-Tabebuia_impetiginos_flower.jpg",
+		"Description": "O Chá de Ipê Roxo é uma bebida preparada a partir da casca da árvore ipê roxo, uma árvore nativa da América do Sul. É conhecido por seus efeitos anti-inflamatórios, antimicrobianos e antioxidantes.",
+		"Benefits": [
+			"Anti-inflamatório",
+			"Antimicrobiano",
+			"Antioxidante",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças",
+			"Melhora da imunidade"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas de coagulação",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "a40b56b4-21ab-4695-a6bd-ce6af60613d0",
+		"Name": "Chá de Jaborandi",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pilocarpus_jaborandi_-_Leaf.jpg/220px-Pilocarpus_jaborandi_-_Leaf.jpg",
+		"Description": "O Chá de Jaborandi é uma bebida preparada a partir das folhas da planta jaborandi, uma planta nativa da América do Sul. É conhecido por seus efeitos estimulantes da transpiração e da salivação.",
+		"Benefits": [
+			"Estimulante da transpiração",
+			"Estimulante da salivação",
+			"Alívio da dor de cabeça",
+			"Alívio da febre",
+			"Alívio da dor de garganta",
+			"Alívio da tosse"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Uso de medicamentos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "d5b2b687-7d48-48d4-a642-aba0ca6b2ea3",
+		"Name": "Chá de Jambolão",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Jambol%C3%A3o_fruta.jpg/220px-Jambol%C3%A3o_fruta.jpg",
+		"Description": "O Chá de Jambolão é uma bebida preparada a partir das folhas da planta jambolão, uma planta nativa da Ásia. É conhecido por seus efeitos hipoglicemiantes, antioxidantes e digestivos.",
+		"Benefits": [
+			"Hipoglicêmico",
+			"Antioxidante",
+			"Digestivo",
+			"Alívio da dor de cabeça",
+			"Alívio da náusea",
+			"Alívio do enjoo",
+			"Melhora da concentração",
+			"Redução do estresse"
+		],
+		"Contraindications": ["Gravidez", "Lactação", "Reação alérgica"]
+	},
+	{
+		"ID": "4fece5cd-48a7-4edd-8b75-4c594329bba6",
+		"Name": "Chá de Jasmim",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Jasmine_flower.jpg/220px-Jasmine_flower.jpg",
+		"Description": "O Chá de Jasmim é uma bebida preparada a partir das flores da planta jasmim, uma planta nativa da Ásia. É conhecido por seus efeitos calmantes, relaxantes e antioxidantes.",
+		"Benefits": [
+			"Calmante",
+			"Relaxante",
+			"Antioxidante",
+			"Alívio do estresse",
+			"Melhora da qualidade do sono",
+			"Proteção contra doenças"
+		],
+		"Contraindications": ["Gravidez", "Lactação", "Reação alérgica"]
+	},
+	{
+		"ID": "0b7e8aed-69a4-43ea-a179-1497037424df",
+		"Name": "Chá de Jatobá",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Jatob%C3%A3.jpg/220px-Jatob%C3%A3.jpg",
+		"Description": "O Chá de Jatobá é uma bebida preparada a partir da casca da árvore jatobá, uma árvore nativa da América do Sul. É conhecido por seus efeitos anti-inflamatórios, antioxidantes e diuréticos.",
+		"Benefits": [
+			"Anti-inflamatório",
+			"Antioxidante",
+			"Diurético",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças",
+			"Melhora da saúde urinária"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "a9119c19-df54-4240-b03f-a037130fad6f",
+		"Name": "Chá de Lavanda",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Lavender_flower.jpg/220px-Lavender_flower.jpg",
+		"Description": "O Chá de Lavanda é uma bebida preparada a partir das flores da planta lavanda, uma planta nativa do sul da Europa. É conhecido por seus efeitos calmantes, relaxantes e antioxidantes.",
+		"Benefits": [
+			"Calmante",
+			"Relaxante",
+			"Antioxidante",
+			"Alívio da dor de cabeça",
+			"Alívio da ansiedade",
+			"Alívio do estresse",
+			"Melhora da qualidade do sono",
+			"Proteção contra doenças"
+		],
+		"Contraindications": ["Gravidez", "Lactação", "Reação alérgica"]
+	},
+	{
+		"ID": "6a7d5e8a-e822-4442-8d5f-e290c72d9c94",
+		"Name": "Chá de Macela",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Achyrocline_satureoides_flower.jpg/220px-Achyrocline_satureoides_flower.jpg",
+		"Description": "O Chá de Macela é uma bebida preparada a partir das flores da planta macela, uma planta nativa da América do Sul. É conhecido por seus efeitos calmantes, relaxantes e anti-inflamatórios.",
+		"Benefits": [
+			"Calmante",
+			"Relaxante",
+			"Anti-inflamatório",
+			"Alívio da dor de cabeça",
+			"Alívio da ansiedade",
+			"Alívio do estresse",
+			"Melhora da qualidade do sono",
+			"Digestivo",
+			"Antioxidante"
+		],
+		"Contraindications": ["Gravidez", "Lactação", "Reação alérgica"]
+	},
+	{
+		"ID": "521c8c72-4307-4bed-a25b-19d5bee32f3f",
+		"Name": "Chá de Malva",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Malva_sylvestris_flower.jpg/220px-Malva_sylvestris_flower.jpg",
+		"Description": "O Chá de Malva é uma bebida preparada a partir das folhas ou flores da planta malva, uma planta nativa da Europa, Ásia e África. É conhecido por seus efeitos emolientes, anti-inflamatórios e digestivos.",
+		"Benefits": [
+			"Emoliente",
+			"Anti-inflamatório",
+			"Digestivo",
+			"Alívio da tosse",
+			"Alívio da dor de garganta",
+			"Alívio da diarreia",
+			"Alívio da prisão de ventre",
+			"Proteção contra doenças"
+		],
+		"Contraindications": ["Gravidez", "Lactação", "Reação alérgica"]
+	},
+	{
+		"ID": "9662d989-62cf-43a9-b57e-23eae984b161",
+		"Name": "Chá de Manjericão",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ocimum_basilicum_herb.jpg/220px-Ocimum_basilicum_herb.jpg",
+		"Description": "O Chá de Manjericão é uma bebida preparada a partir das folhas da planta manjericão, uma planta nativa da Ásia. É conhecido por seus efeitos digestivos, anti-inflamatórios e antioxidantes.",
+		"Benefits": [
+			"Digestivo",
+			"Anti-inflamatório",
+			"Antioxidante",
+			"Alívio da dor de estômago",
+			"Alívio da náusea",
+			"Alívio da dor de cabeça",
+			"Alívio da ansiedade",
+			"Melhora da qualidade do sono"
+		],
+		"Contraindications": ["Gravidez", "Lactação", "Reação alérgica"]
+	},
+	{
+		"ID": "1c5292ff-a9fa-4418-8b2a-fcfcb6f6a2d0",
+		"Name": "Chá de Maracujá",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Passiflora_edulis_flower.jpg/220px-Passiflora_edulis_flower.jpg",
+		"Description": "O Chá de Maracujá é uma bebida preparada a partir das folhas da planta maracujá, uma planta nativa da América do Sul. É conhecido por seus efeitos calmantes, relaxantes e antioxidantes.",
+		"Benefits": [
+			"Calmante",
+			"Relaxante",
+			"Antioxidante",
+			"Alívio da ansiedade",
+			"Alívio do estresse",
+			"Melhora da qualidade do sono",
+			"Proteção contra doenças"
+		],
+		"Contraindications": ["Gravidez", "Lactação", "Reação alérgica"]
+	},
+	{
+		"ID": "50f44ab7-b632-4781-b870-282fa4b4981c",
+		"Name": "Chá de Melão São Caetano",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Momordica_charantia_fruit.jpg/220px-Momordica_charantia_fruit.jpg",
+		"Description": "O Chá de Melão São Caetano é uma bebida preparada a partir das folhas da planta melão-de-são-caetano, uma planta nativa da Ásia. É conhecido por seus efeitos diuréticos, antidiabéticos e antioxidantes.",
+		"Benefits": [
+			"Diurético",
+			"Antidiabético",
+			"Antioxidante",
+			"Alívio da dor de cabeça",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "95e156a5-7d2c-4de1-b4e9-22513ea78fcf",
+		"Name": "Chá de Moringa",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Moringa_oleifera_leaves.jpg/220px-Moringa_oleifera_leaves.jpg",
+		"Description": "O Chá de Moringa é uma bebida preparada a partir das folhas da planta moringa, uma planta nativa da Índia. É conhecido por seus efeitos antioxidantes, anti-inflamatórios e nutritivos.",
+		"Benefits": [
+			"Antioxidante",
+			"Anti-inflamatório",
+			"Nutritivo",
+			"Alívio da dor de cabeça",
+			"Alívio da ansiedade",
+			"Alívio do estresse",
+			"Melhora da qualidade do sono",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "cc126825-6dc1-4513-bae6-9758c01e8cf4",
+		"Name": "Chá de Mulungu",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Crataeva_aculeata_flower.jpg/220px-Crataeva_aculeata_flower.jpg",
+		"Description": "O Chá de Mulungu é uma bebida preparada a partir da casca da planta mulungu, uma planta nativa da América do Sul. É conhecido por seus efeitos calmantes, sedativos e relaxantes musculares.",
+		"Benefits": [
+			"Calmante",
+			"Sedativo",
+			"Relaxante muscular",
+			"Alívio da insônia",
+			"Alívio da ansiedade",
+			"Alívio do estresse",
+			"Redução da pressão arterial",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas cardíacos",
+			"Problemas renais",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "a5b6a3bf-d27a-42f1-bb2e-5d9ea29d3451",
+		"Name": "Chá de Mutamba",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Guazuma_ulmifolia_leaves.jpg/220px-Guazuma_ulmifolia_leaves.jpg",
+		"Description": "O Chá de Mutamba é uma bebida preparada a partir da casca da planta mutamba, uma planta nativa da América Central e do Sul. É conhecido por seus efeitos estimulantes, revigorantes e anti-inflamatórios.",
+		"Benefits": [
+			"Estimulante",
+			"Revigorante",
+			"Anti-inflamatório",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas cardíacos",
+			"Problemas renais",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "d5950b45-a3df-4f2f-bde8-77edfd321ebe",
+		"Name": "Chá de Noz Pecã",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carya_illinoinensis_fruit.jpg/220px-Carya_illinoinensis_fruit.jpg",
+		"Description": "O Chá de Noz Pecã é uma bebida preparada a partir das cascas das nozes pecãs, uma árvore nativa da América do Norte. É conhecido por seus efeitos diuréticos, anti-inflamatórios e antioxidantes.",
+		"Benefits": [
+			"Diurético",
+			"Anti-inflamatório",
+			"Antioxidante",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "f1cf3af0-c0d0-4511-ac48-e45c554caabb",
+		"Name": "Chá de Ora-pro-nobis",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Pereskia_aculeata_fruit.jpg/220px-Pereskia_aculeata_fruit.jpg",
+		"Description": "O Chá de Ora-pro-nobis é uma bebida preparada a partir das folhas da planta ora-pro-nobis, uma planta nativa da América do Sul. É conhecido por seus efeitos nutritivos, anti-inflamatórios e antioxidantes.",
+		"Benefits": [
+			"Nutritivo",
+			"Anti-inflamatório",
+			"Antioxidante",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "fb38ee69-bc76-4705-8f79-c2abeffaea16",
+		"Name": "Chá de Pata-de-Vaca",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bauhinia_forficata_flower.jpg/220px-Bauhinia_forficata_flower.jpg",
+		"Description": "O Chá de Pata-de-Vaca é uma bebida preparada a partir das folhas da planta pata-de-vaca, uma planta nativa da América do Sul. É conhecido por seus efeitos anti-inflamatórios, antibacterianos e cicatrizantes.",
+		"Benefits": [
+			"Anti-inflamatório",
+			"Antibacteriano",
+			"Cicatrizante",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "ed2627c7-0fc0-4f20-8f1e-6dd193f2c371",
+		"Name": "Chá de Pau-Tenente",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cassia_fistula_fruit.jpg/220px-Cassia_fistula_fruit.jpg",
+		"Description": "O Chá de Pau-Tenente é uma bebida preparada a partir das vagens da planta pau-tenente, uma planta nativa da América Central e do Sul. É conhecido por seus efeitos laxantes, anti-inflamatórios e antioxidantes.",
+		"Benefits": [
+			"Laxante",
+			"Anti-inflamatório",
+			"Antioxidante",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "be9bfed1-7818-4501-aa42-f586be0d16ca",
+		"Name": "Chá de Pedra Umê Caá",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Crataeva_aculeata_flower.jpg/220px-Crataeva_aculeata_flower.jpg",
+		"Description": "O Chá de Pedra Umê Caá é uma bebida preparada a partir da casca da planta pedra umê caá, uma planta nativa da América do Sul. É conhecido por seus efeitos calmantes, sedativos e relaxantes musculares.",
+		"Benefits": [
+			"Calmante",
+			"Sedativo",
+			"Relaxante muscular",
+			"Alívio da insônia",
+			"Alívio da ansiedade",
+			"Alívio do estresse",
+			"Redução da pressão arterial",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas cardíacos",
+			"Problemas renais",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "f94657a6-ff12-4839-af5f-2b3a017c9b3d",
+		"Name": "Chá de Picão Preto",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bidens_pilosa_flower.jpg/220px-Bidens_pilosa_flower.jpg",
+		"Description": "O Chá de Picão Preto é uma bebida preparada a partir das folhas e flores da planta picão preto, uma planta nativa da América do Sul. É conhecido por seus efeitos diuréticos, anti-inflamatórios e antioxidantes.",
+		"Benefits": [
+			"Diurético",
+			"Anti-inflamatório",
+			"Antioxidante",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "c708895e-d5e7-4d48-9e8b-c6167d1742be",
+		"Name": "Chá de Pitanga",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Eugenia_uniflora_fruits.jpg/220px-Eugenia_uniflora_fruits.jpg",
+		"Description": "O Chá de Pitanga é uma bebida preparada a partir das folhas da planta pitanga, uma planta nativa da América do Sul. É conhecido por seus efeitos digestivos, diuréticos e antioxidantes.",
+		"Benefits": [
+			"Digestivo",
+			"Diurético",
+			"Antioxidante",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "77919b61-2e08-442c-9fa3-d9d153ba1781",
+		"Name": "Chá de Poejo",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Mentha_pulegium_flower.jpg/220px-Mentha_pulegium_flower.jpg",
+		"Description": "O Chá de Poejo é uma bebida preparada a partir das folhas da planta poejo, uma planta nativa da Europa. É conhecido por seus efeitos digestivos, antiespasmódicos e anti-inflamatórios.",
+		"Benefits": [
+			"Digestivo",
+			"Antiespasmódico",
+			"Anti-inflamatório",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "e7e904aa-d75d-4e02-92df-e8dbece0ac2c",
+		"Name": "Chá de Porangaba",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Porangaba_(Cordia_calyculata).jpg/220px-Porangaba_(Cordia_calyculata).jpg",
+		"Description": "O Chá de Porangaba é uma bebida preparada a partir das folhas e flores da planta porangaba, uma planta nativa da América do Sul. É conhecido por seus efeitos diuréticos, anti-inflamatórios e antioxidantes.",
+		"Benefits": [
+			"Diurético",
+			"Anti-inflamatório",
+			"Antioxidante",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "4e5d09af-d82a-40f9-a489-4102ff7b288f",
+		"Name": "Chá Preto",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Black_tea_leaves.jpg/220px-Black_tea_leaves.jpg",
+		"Description": "O Chá Preto é uma bebida preparada a partir das folhas da planta Camellia sinensis, que são oxidadas antes de serem secas. É conhecido por seus efeitos estimulantes, antioxidantes e digestivos.",
+		"Benefits": [
+			"Estimulante",
+			"Antioxidante",
+			"Digestivo",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Insomnia",
+			"Ansiedade",
+			"Problemas gástricos",
+			"Problemas cardíacos",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "99727938-397b-419c-999d-84fea5f05310",
+		"Name": "Chá de Quebra Pedra",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Phyllanthus_niruri_plant.jpg/220px-Phyllanthus_niruri_plant.jpg",
+		"Description": "O Chá de Quebra Pedra é uma bebida preparada a partir das folhas e frutos da planta quebra pedra, uma planta nativa da América do Sul. É conhecido por seus efeitos diuréticos, anti-inflamatórios e antioxidantes.",
+		"Benefits": [
+			"Diurético",
+			"Anti-inflamatório",
+			"Antioxidante",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "eef7476d-8a27-443b-9608-e2a0792fabcf",
+		"Name": "Chá de Raiz de Urtiga",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Urtica_dioica_root.jpg/220px-Urtica_dioica_root.jpg",
+		"Description": "O Chá de Raiz de Urtiga é uma bebida preparada a partir da raiz da planta urtiga, uma planta nativa da Europa e da Ásia. É conhecido por seus efeitos diuréticos, anti-inflamatórios e antioxidantes.",
+		"Benefits": [
+			"Diurético",
+			"Anti-inflamatório",
+			"Antioxidante",
+			"Fortalecimento do sistema imunológico",
+			"Controle do açúcar no sangue",
+			"Controle da pressão arterial",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "ddcf26f1-9ac0-4375-b2ee-1f145acce99c",
+		"Name": "Chá de Rosa",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rosa_x_damascena_flowers.jpg/220px-Rosa_x_damascena_flowers.jpg",
+		"Description": "O Chá de Rosa é uma bebida preparada a partir das pétalas da flor rosa, uma flor nativa da Europa, Ásia e África. É conhecido por seus efeitos calmantes, relaxantes e digestivos.",
+		"Benefits": [
+			"Calmante",
+			"Relaxante",
+			"Digestivo",
+			"Anti-inflamatório",
+			"Antioxidante",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "623dd33a-f1c9-4c74-8735-d8fdb41ba02c",
+		"Name": "Chá de Sabugueiro",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sambucus_nigra_fruit.jpg/220px-Sambucus_nigra_fruit.jpg",
+		"Description": "O Chá de Sabugueiro é uma bebida preparada a partir das flores, folhas e frutos da planta sabugueiro, uma planta nativa da Europa, Ásia e América do Norte. É conhecido por seus efeitos anti-inflamatórios, antivirais e expectorantes.",
+		"Benefits": [
+			"Anti-inflamatório",
+			"Antivirais",
+			"Expectorante",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "fe8ba3c3-56e2-4573-927c-2d28ae1c6762",
+		"Name": "Chá de Salsaparrilha",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Smilax_officinalis_plant.jpg/220px-Smilax_officinalis_plant.jpg",
+		"Description": "O Chá de Salsaparrilha é uma bebida preparada a partir das raízes da planta salsaparrilha, uma planta nativa da América do Norte e da Europa. É conhecido por seus efeitos diuréticos, anti-inflamatórios e afrodisíacos.",
+		"Benefits": [
+			"Diurético",
+			"Anti-inflamatório",
+			"Afrodisíaco",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "b1a0b66f-e1a1-4edd-bb57-07e271fa6aff",
+		"Name": "Chá de Sene",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cassia_senna_leaves.jpg/220px-Cassia_senna_leaves.jpg",
+		"Description": "O Chá de Sene é uma bebida preparada a partir das folhas e vagens da planta sene, uma planta nativa da África. É conhecido por seus efeitos laxantes.",
+		"Benefits": [
+			"Laxante",
+			"Alívio da prisão de ventre",
+			"Purificação do corpo"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "c1ac2809-f7bc-4cfa-9b77-d81b9b39fe2e",
+		"Name": "Chá de Sete Sangrias",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Cuphea_carthagenensis_plant.jpg/220px-Cuphea_carthagenensis_plant.jpg",
+		"Description": "O Chá de Sete Sangrias é uma bebida preparada a partir das folhas e flores da planta sete sangrias, uma planta nativa da América Central e América do Sul. É conhecido por seus efeitos diuréticos, laxantes e sedativos.",
+		"Benefits": [
+			"Diurético",
+			"Laxante",
+			"Sedativo",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "5be7f631-2e18-4877-870c-87f69b2ac8ea",
+		"Name": "Chá de Stevia",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Stevia_rebaudiana_leaves.jpg/220px-Stevia_rebaudiana_leaves.jpg",
+		"Description": "O Chá de Stevia é uma bebida preparada a partir das folhas da planta stevia, uma planta nativa da América do Sul. É conhecido por seu sabor doce e seus benefícios para a saúde.",
+		"Benefits": [
+			"Edulcorante natural",
+			"Controle da glicemia",
+			"Redução do colesterol",
+			"Proteção contra doenças"
+		],
+		"Contraindications": ["Hipoglicemia", "Problemas renais"]
+	},
+	{
+		"ID": "3ce10c4d-ed4f-409d-bbb7-49405e9e11c4",
+		"Name": "Chá de Sucupira",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sambucus_plebeia_fruit.jpg/220px-Sambucus_plebeia_fruit.jpg",
+		"Description": "O Chá de Sucupira é uma bebida preparada a partir das sementes da planta sucupira, uma planta nativa da América do Sul. É conhecido por seus efeitos anti-inflamatórios, anti-reumáticos e analgésicos.",
+		"Benefits": [
+			"Anti-inflamatório",
+			"Anti-reumático",
+			"Analgesia",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "c822f82f-1d87-4d5d-8a32-e98227ca4219",
+		"Name": "Chá de Tanchagem",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Plantago_major_plant.jpg/220px-Plantago_major_plant.jpg",
+		"Description": "O Chá de Tanchagem é uma bebida preparada a partir das folhas da planta tanchagem, uma planta nativa da Europa, Ásia e América. É conhecido por seus efeitos anti-inflamatórios, cicatrizantes e expectorantes.",
+		"Benefits": [
+			"Anti-inflamatório",
+			"Cicatrizante",
+			"Expectorante",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "ff24a7c6-a5ea-4d10-a533-00ede286ad9b",
+		"Name": "Chá de Unha de Gato",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Uncaria_tomentosa_plant.jpg/220px-Uncaria_tomentosa_plant.jpg",
+		"Description": "O Chá de Unha de Gato é uma bebida preparada a partir da casca da planta unha de gato, uma planta nativa da Amazônia. É conhecido por seus efeitos anti-inflamatórios, imunoestimulantes e analgésicos.",
+		"Benefits": [
+			"Anti-inflamatório",
+			"Imunoestimulante",
+			"Analgesia",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "20aba0ba-6495-4b0e-ada6-747d5ba4bea6",
+		"Name": "Chá de Uxi Amarelo Rasura",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Endopleura_uchi_fruits.jpg/220px-Endopleura_uchi_fruits.jpg",
+		"Description": "O Chá de Uxi Amarelo Rasura é uma bebida preparada a partir da casca raspada da planta uxi amarelo, uma planta nativa da Amazônia. É conhecido por seus efeitos anti-inflamatórios, antimicrobianos e analgésicos.",
+		"Benefits": [
+			"Anti-inflamatório",
+			"Antimicrobiano",
+			"Analgesia",
+			"Alívio da dor",
+			"Alívio da inflamação",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "fc6913f5-8b88-4534-a2e9-e8a49cc76889",
+		"Name": "Chá de Valeriana",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Valeriana_officinalis_plant.jpg/220px-Valeriana_officinalis_plant.jpg",
+		"Description": "O Chá de Valeriana é uma bebida preparada a partir das raízes e rizomas da planta valeriana, uma planta nativa da Europa e Ásia. É conhecido por seus efeitos sedativos, ansiolíticos e relaxantes musculares.",
+		"Benefits": [
+			"Sedativo",
+			"Ansiolítico",
+			"Relaxante muscular",
+			"Alívio da ansiedade",
+			"Alívio do estresse",
+			"Melhora da qualidade do sono"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas cardíacos",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	},
+	{
+		"ID": "733639b0-0d85-45ae-b435-bb7111f73d58",
+		"Name": "Chá Verde",
+		"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Camellia_sinensis_in_tea_field.jpg/220px-Camellia_sinensis_in_tea_field.jpg",
+		"Description": "O Chá Verde é uma bebida preparada a partir das folhas jovens e não fermentadas da planta Camellia sinensis, uma planta nativa da Ásia. É conhecido por seus efeitos antioxidantes, termogênicos e anti-inflamatórios.",
+		"Benefits": [
+			"Antioxidante",
+			"Termogênico",
+			"Anti-inflamatório",
+			"Alívio do estresse",
+			"Melhora do humor",
+			"Proteção contra doenças"
+		],
+		"Contraindications": [
+			"Gravidez",
+			"Lactação",
+			"Problemas renais",
+			"Problemas hepáticos",
+			"Reação alérgica"
+		]
+	}
+]

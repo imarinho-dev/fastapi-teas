@@ -1,0 +1,1003 @@
+{
+	"teas": [
+		{
+			"name": "CHA AGONIADA CASCA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ALCACHOFRA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ALECRIM A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ALECRIM DO CAMPO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ALFAVACA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ALFAZEMA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA AMORA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ANIS ESTRELADO FRUTO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA AROEIRA CASCA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ARRUDA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ARTEMISIA FOLHAS A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ARTEMISIA PO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ASSA PEIXE A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA BARBATIMAO CASCA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA BARBATIMAO PO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA BARDANA FOLHAS A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA BOLDO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA BOLDO PO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA BRANCO FOLHA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA CALENDULA FLOR A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA CAMOMILA FOLHAS A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA CAMOMILA PO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA CANA DO BREJO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA CANELA CASCA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA CANELA DE VELHO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA CAPIM SANTO CIDREIRA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA CARDO MARIANO SEMENTE A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA CARDO MARIANO SEMENTE A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA CARQUEJA AMARGA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA CARQUEJA DOCE A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA CASCARA SAGRADA CASCA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA CASCARA SAGRADA PO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA CATUABA CASCA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA CAVALINHA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA CENTELHA ASIATICA FOLHAS A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA CHAPEU DE COURO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA CIPO MIL HOMENS A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA DENTE DE LEAO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA EQUINACEA FLOR A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ERVA BALEEIRA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ERVA BOTAO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ERVA CIDREIRA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ERVA DE BICHO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ERVA DE SAO JOAO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ERVA DOCE A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ERVA MATE A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ERVA MATE TOSTADA FOLHAS A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ESPINHEIRA SANTA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA EUCALIPITO FOLHAS A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA FLOR DE HIBISCUS A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA FOLHA DA OLIVEIRA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA FOLHA DE GOIABEIRA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA FOLHA DE LARANJA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA FUNCHO FOLHAS A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA GENGIBRE PO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA GINKGO BILOBA EM PO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA GINKGO FOLHAS A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA GRAVIOLA FOLHAS A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA GRAVIOLA PO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA GUACATONGA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA GUACO FOLHA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA HIPERICO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA HORTELA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA IPE ROXO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA JABORANDIA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA JAMBOLAO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA JASMIN A GRANELCHA JATOBA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA JUA CASCA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA LAVANDA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA MACELA FLOR A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA MACELA SEMENTE A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA MALVA FOLHAS A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA MANJERICAO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA MANJERICAO PO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA MARACUJA FOLHAS A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA MELAO SAO CAETANO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA MORINGA FOLHA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA MORINGA PO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA MULUNGU CASCA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA MULUNGU PO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA MUTAMBA CASCA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA NOZ PECA CASCA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ORA PRO NOBIS A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA PATA DE VACA FOLHAS A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA PATA DE VACA PO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA PAU TENENTE CASCA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA PAU TENENTE PO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA PEDRA UME CAA FOLHA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA PICAO PRETO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA PITANGA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA POEJO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA PORANGABA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA PRETO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA QUEBRA PEDRA FOLHAS A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA RAIZ DE URTIGA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA ROMA CASCA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA SABUGUEIRO FOLHAS A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA SALSAPARRILHA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA SENE FOLHA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA SENE PO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA SETE SANGRIAS A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA STEVIA PO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA SUCUPIRA SEMENTE A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA TANCHAGEM A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA UNHA DE GATO FOLHAS A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA UNHA DE GATO RASURA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA UXI AMARELO RASURA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA UXI CASCA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA VALERIANA PO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA VERDE FOLHA A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		},
+		{
+			"name": "CHA VERDE PO A GRANEL",
+			"type": "Herbal",
+			"description": "Agoniada bark tea in bulk.",
+			"benefits": ["Benefit 1", "Benefit 2"],
+			"preparation": "Instructions for preparation.",
+			"price": 5.99,
+			"weight": "50g"
+		}
+	]
+}

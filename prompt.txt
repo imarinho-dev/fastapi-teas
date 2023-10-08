@@ -1,0 +1,3 @@
+Transforme esse chá em json, precisa conter as seguintes chaves: ID, Name,Image, Description, Benefits e Contraindication.
+
+Os campos Description, Benefits e Contraindication precisam ser preenchidos com dados reais. "CHA CATUABA"
